@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalles-taywan-ramos-marinho-09571a49/)](https://www.linkedin.com/in/thalles-taywan-ramos-marinho-09571a49/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thallestaywan/)](https://www.instagram.com/thallestaywan/) 
 
-### Hi there! 👋
+### That's all folks! 👋
 
 - :man_technologist: **Fullstack** Web Developer.
 - 💻 React JS, React Native, Node JS, Javascript, TypeScript, MySQL, PHP and **more**.
